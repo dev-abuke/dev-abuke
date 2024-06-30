@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Generative AI and ML Projects
+- 🌱 I’m currently learning RAG, Datalakes and AI Trends
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,16 +16,26 @@ Here are some ideas to get you started:
 -->
 ## Hi, I am Abubeker Shamil! Great to see you here! 👋
 
-I am Abubeker Shamil, I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Abubeker Shamil, I am a Software Engineer with 2 years of professional experience. Besides, I am
+Systems Thinker with proven experience in analyzing different data and
+deploying them. Skilled in python, javascript, data analysis frameworks. I am
+committed, good communicator, willing to assume responsibility with a
+problem-solving mindset and collaborative attitude
 
-[![Linkedin Badge](https://img.shields.io/badge/-kaiwalyakoparkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/kaiwalyakoparkar/)
-[![Instagram Badge](https://img.shields.io/badge/-kaiwalya.koparkar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/notkaiwalya)](https://instagram.com/notkaiwalya)
-[![Hashnode Badge](https://img.shields.io/badge/-@kaiwalyakoparkar-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://kaiwalyakoparkar.hashnode.dev/)](https://kaiwalyakoparkar.hashnode.dev/)
-[![Gmail Badge](https://img.shields.io/badge/-kaiwalyakoparkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:kaiwalyakoparkar@gmail.com)
-[![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://link.kaiwalyakoparkar.com/)](https://link.kaiwalyakoparkar.com/)
-[![Youtube Badge](https://img.shields.io/badge/-Kaiwalya%20Koparkar-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/@kaiwalya_koparkar)](https://youtube.com/@kaiwalya_koparkar)
 
-[![Kaiwalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaiwalyakoparkar&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🔭 I’m currently working on Generative AI and ML Projects
+- 🌱 I’m currently learning RAG, Datalakes and AI Trends
+<!-- -  -->
+
+
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-kaiwalyakoparkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](linkedin.com/in/abubeker-shamil/) -->
+<!-- [![Instagram Badge](https://img.shields.io/badge/-kaiwalya.koparkar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/notkaiwalya)](https://instagram.com/notkaiwalya)
+[![Hashnode Badge](https://img.shields.io/badge/-@kaiwalyakoparkar-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://kaiwalyakoparkar.hashnode.dev/)](https://kaiwalyakoparkar.hashnode.dev/) -->
+<!-- [![Gmail Badge](https://img.shields.io/badge/-kaiwalyakoparkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:hello@abubekershamil.com) -->
+<!-- [![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://link.kaiwalyakoparkar.com/)](https://link.kaiwalyakoparkar.com/)
+[![Youtube Badge](https://img.shields.io/badge/-Kaiwalya%20Koparkar-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/@kaiwalya_koparkar)](https://youtube.com/@kaiwalya_koparkar) -->
+
+<!-- [![Kaiwalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaiwalyakoparkar&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ## ⚡ Technologies
 
@@ -77,6 +87,6 @@ I am Abubeker Shamil, I am a tech enthusiast & an open-source advocate. I am alw
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaiwalyakoparkar&show_icons=true&theme=tokyonight" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaiwalyakoparkar&show_icons=true&theme=tokyonight" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiwalyakoparkar&theme=tokyonight" />
 </p>

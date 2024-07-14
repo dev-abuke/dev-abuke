@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ## Hi, I am Abubeker Shamil! Great to see you here! 👋
 
-I am Abubeker Shamil, a software engineer with 2 years of professional experience. Besides, I am
-Systems Thinker with proven experience in analyzing different data and
+I am Abubeker Shamil, a Generative AI and software engineer. Besides, I am
+Systems Thinker with experience in analyzing different data and
 deploying them. Skilled in python, javascript, data analysis frameworks. I am
 committed, good communicator, willing to assume responsibility with a
 problem-solving mindset and collaborative attitude
@@ -72,5 +72,5 @@ problem-solving mindset and collaborative attitude
 
 ## 📈 Stats
 <p align="center">
-	Comming Soom :) ... 
+	Comming Soon :) ... 
 </p>
